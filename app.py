@@ -41,15 +41,15 @@ def creators():
 def series():
     return render_template('Series.html')
 
-@app.route('/heroes/dormammu')
+@app.route('/heroes-dormammu')
 def dormammu():
     return render_template('Dormammu.html')
 
-@app.route('/creators/gurihiru')
+@app.route('/creators-gurihiru')
 def gurihiru():
     return render_template('Gurihiru.html')
 
-@app.route('/series/100thanniversary')
+@app.route('/series-100thanniversary')
 def anniversary():
     return render_template('100thAnniversary.html')
 
