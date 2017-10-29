@@ -9,16 +9,16 @@ class Heroes(db.Model):
     __tablename__ = 'heroes'
     name = db.Column(db.String(80), nullable=False)
     id = db.Column(db.Integer, primary_key=True)
-    details = db.Column(db.String(120), nullable=False)
-    wiki = db.Column(db.String(120), nullable=False)
-    #series = db.Column()
+    details = db.Column(db.String(140), nullable=False)
+    wiki = db.Column(db.String(140), nullable=False)
+    #series = db.Column()"""
 
 class Creators(db.Model):
     __tablename__ = 'creators'
     name = db.Column(db.String(80), nullable=False)
     id = db.Column(db.Integer, primary_key=True)
     details = db.Column(db.String(120), nullable=False)
-    comics = db.Column(db.String(80), nullable=False)
+    #comics = db.Column(db.String(80), nullable=False)
     #series = db.Column()
 
 class Series(db.Model):

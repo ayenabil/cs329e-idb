@@ -1,0 +1,704 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2017 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2017 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>",
+  "etag": "e5b7d85ae89be91da8b0633f0bc3493208e5aecf",
+  "data": {
+    "offset": 0,
+    "limit": 8,
+    "total": 6129,
+    "count": 8,
+    "results": [
+      {
+        "id": 322,
+        "firstName": "Gurihiru",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Gurihiru",
+        "modified": "2016-03-17T15:49:51-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4bc5d7e0dfb9a",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/322",
+        "comics": {
+          "available": 118,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/322/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5519",
+              "name": "Avengers and Power Pack Assemble! (Digest)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4106",
+              "name": "Avengers and Power Pack Assemble! (2006) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4214",
+              "name": "Avengers and Power Pack Assemble! (2006) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4308",
+              "name": "Avengers and Power Pack Assemble! (2006) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4464",
+              "name": "Avengers and Power Pack Assemble! (2006) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/63215",
+              "name": "Avengers and Power Pack (2017) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/63216",
+              "name": "Avengers and Power Pack (2017) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/63217",
+              "name": "Avengers and Power Pack (2017) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/63218",
+              "name": "Avengers and Power Pack (2017) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/63219",
+              "name": "Avengers and Power Pack (2017) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/63220",
+              "name": "Avengers and Power Pack (2017) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/63221",
+              "name": "Avengers and Power Pack (2017) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/63222",
+              "name": "Avengers and Power Pack (2017) #8"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/45900",
+              "name": "Avengers Vs. X-Men Companion (Hardcover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/42486",
+              "name": "Avengers Vs. X-Men: Versus (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/37329",
+              "name": "Captain America: The Fighting Avenger (Graphic Novel)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/39094",
+              "name": "Captain America: The Fighting Avenger (2010) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/38896",
+              "name": "Captain America: The Fighting Avenger (2010) #1 (Gurihiru Cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/39015",
+              "name": "Captain America: The Fighting Avenger (2010) #1 (Kitson Cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/59726",
+              "name": "Civil War II: Choosing Sides (2016) #4 (Gurihiru Variant)"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 55,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/322/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/20327",
+              "name": "Amazing Spider-Man: Renew Your Vows (2015)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/23123",
+              "name": "Avengers and Power Pack (2017)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1046",
+              "name": "Avengers and Power Pack Assemble! (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1748",
+              "name": "Avengers and Power Pack Assemble! (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/17316",
+              "name": "Avengers Vs. X-Men Companion (2013)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/16229",
+              "name": "Avengers Vs. X-Men: Versus (2011 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/13406",
+              "name": "Captain America: The Fighting Avenger (2010 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/13046",
+              "name": "Captain America: The Fighting Avenger (2010 - 2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/21692",
+              "name": "Civil War II: Choosing Sides (2016 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/16542",
+              "name": "Deadpool (2012 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2506",
+              "name": "Fantastic Four and Power Pack (2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3444",
+              "name": "Fantastic Four and Power Pack: Favorite Son (2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/6985",
+              "name": "Free Comic Book Day 2009 (Wolverine: Origin of an (2009)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/21033",
+              "name": "Gwenpool Special (2015 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/21473",
+              "name": "Gwenpool, The Unbelievable Vol. 1: Believe It (2016)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/21474",
+              "name": "Gwenpool, The Unbelievable Vol. 2: Head of M.O.D.O.K. (2017)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/22781",
+              "name": "Gwenpool, The Unbelievable Vol. 3: Totally In Continuity (2017)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1869",
+              "name": "Hulk and Power Pack (2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2708",
+              "name": "Hulk and Power Pack: Pack Smash! (2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/23098",
+              "name": "Iron Man and Power Pack (2017)"
+            }
+          ],
+          "returned": 20
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/322/gurihiru?utm_campaign=apiRef&utm_source=b007d4496b03350e50a42caa0c26d166"
+          }
+        ]
+      },
+      {
+        "id": 5731,
+        "firstName": "Homer",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Homer",
+        "modified": "2012-12-04T17:14:39-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5731",
+        "comics": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/5731/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17604",
+              "name": "Marvel Illustrated: The Iliad (2007) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/20847",
+              "name": "Marvel Illustrated: The Iliad (2007) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/20981",
+              "name": "Marvel Illustrated: The Iliad (2007) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21189",
+              "name": "Marvel Illustrated: The Iliad (2007) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/22397",
+              "name": "Marvel Illustrated: The Iliad Premiere (Hardcover)"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/5731/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3176",
+              "name": "Marvel Illustrated: The Iliad (2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/6015",
+              "name": "Marvel Illustrated: The Iliad Premiere (2008 - Present)"
+            }
+          ],
+          "returned": 2
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/5731/homer?utm_campaign=apiRef&utm_source=b007d4496b03350e50a42caa0c26d166"
+          }
+        ]
+      },
+      {
+        "id": 634,
+        "firstName": "Shinkiro",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Shinkiro",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/4bc64953f1811",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/634",
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/634/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/187",
+              "name": "Spider-Man Unlimited (2004) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1748",
+              "name": "Spider-Man Unlimited (2004) #8"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/634/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/711",
+              "name": "Spider-Man Unlimited (2004 - 2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/634/shinkiro?utm_campaign=apiRef&utm_source=b007d4496b03350e50a42caa0c26d166"
+          }
+        ]
+      },
+      {
+        "id": 971,
+        "firstName": "Disraeli",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Disraeli",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/971",
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/971/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2500",
+              "name": "Last Hero Standing (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2135",
+              "name": "Last Hero Standing (2005) #3"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/971/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1540",
+              "name": "Last Hero Standing (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/923",
+              "name": "Last Hero Standing (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/971/disraeli?utm_campaign=apiRef&utm_source=b007d4496b03350e50a42caa0c26d166"
+          }
+        ]
+      },
+      {
+        "id": 807,
+        "firstName": "Comicraft",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Comicraft",
+        "modified": "2013-02-05T16:56:10-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4bc381514ef59",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "comics": {
+          "available": 854,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/807/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/37901",
+              "name": "Amazing Spider-Man (1999) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/37900",
+              "name": "Amazing Spider-Man (1999) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/37904",
+              "name": "Amazing Spider-Man (1999) #9"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/48430",
+              "name": "Amazing Spider-Man (1999) #15"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/48521",
+              "name": "Amazing Spider-Man (1999) #25"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/48522",
+              "name": "Amazing Spider-Man (1999) #26"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/48523",
+              "name": "Amazing Spider-Man (1999) #27"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/48524",
+              "name": "Amazing Spider-Man (1999) #28"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/43161",
+              "name": "Amazing Spider-Man (1999) #48"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/43162",
+              "name": "Amazing Spider-Man (1999) #49"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6826",
+              "name": "Amazing Spider-Man (1963) #409"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6828",
+              "name": "Amazing Spider-Man (1963) #410"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6829",
+              "name": "Amazing Spider-Man (1963) #411"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6830",
+              "name": "Amazing Spider-Man (1963) #412"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6831",
+              "name": "Amazing Spider-Man (1963) #413"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6832",
+              "name": "Amazing Spider-Man (1963) #414"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6834",
+              "name": "Amazing Spider-Man (1963) #416"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6835",
+              "name": "Amazing Spider-Man (1963) #417"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6836",
+              "name": "Amazing Spider-Man (1963) #418"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6839",
+              "name": "Amazing Spider-Man (1963) #420"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 182,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/807/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+              "name": "Amazing Spider-Man (1999 - 2013)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1987",
+              "name": "Amazing Spider-Man (1963 - 1998)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3618",
+              "name": "Amazing X-Men (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/6056",
+              "name": "Annihilation Classic (2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3619",
+              "name": "Astonishing X-Men (1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+              "name": "Avengers (1998 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3621",
+              "name": "Avengers (1996 - 1997)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1340",
+              "name": "Avengers Assemble (2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1496",
+              "name": "Avengers Assemble Vol. 2 (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1737",
+              "name": "Avengers Assemble Vol. 3 (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1816",
+              "name": "Avengers Assemble Vol. 4 (2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2929",
+              "name": "Avengers Assemble Vol. 5 (2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/158",
+              "name": "Avengers Vol. 1: World Trust (2003)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/227",
+              "name": "Avengers Vol. 2: Red Zone (2003)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/271",
+              "name": "Avengers Vol. II: Red Zone (2003)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/98",
+              "name": "Avengers: The Kang Dynasty (2002)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1992",
+              "name": "Avengers: Ultron Imperative (2001)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2115",
+              "name": "Black Panther (1998 - 2003)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/99",
+              "name": "Black Panther Vol. I: The Client (1999)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/100",
+              "name": "Black Panther Vol. II: Enemy of the State (1999)"
+            }
+          ],
+          "returned": 20
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/807/comicraft?utm_campaign=apiRef&utm_source=b007d4496b03350e50a42caa0c26d166"
+          }
+        ]
+      },
+      {
+        "id": 1076,
+        "firstName": "Homs",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Homs",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1076",
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/1076/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5561",
+              "name": "Marvel Westerns (Hardcover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4456",
+              "name": "Marvel Westerns (2006) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/53992",
+              "name": "Star Wars Tales (1999) #14"
+            }
+          ],
+          "returned": 3
+        },
+        "series": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/1076/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1028",
+              "name": "Marvel Westerns (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1789",
+              "name": "Marvel Westerns (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/20119",
+              "name": "Star Wars Tales (1999 - 2005)"
+            }
+          ],
+          "returned": 3
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/1076/homs?utm_campaign=apiRef&utm_source=b007d4496b03350e50a42caa0c26d166"
+          }
+        ]
+      },
+      {
+        "id": 1268,
+        "firstName": "More",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "More",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1268",
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/1268/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4427",
+              "name": "Essential Official Handbook of the Marvel Universe - Deluxe Edition Vol. 3 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/1268/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1622",
+              "name": "Essential Official Handbook of the Marvel Universe - Deluxe Edition Vol. 3 (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/1268/more?utm_campaign=apiRef&utm_source=b007d4496b03350e50a42caa0c26d166"
+          }
+        ]
+      },
+      {
+        "id": 1496,
+        "firstName": "Illo",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Illo",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1496",
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/1496/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12564",
+              "name": "All-Winners Comics (1941) #18"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/1496/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2114",
+              "name": "All-Winners Comics (1941 - 1947)"
+            }
+          ],
+          "returned": 1
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/1496/illo?utm_campaign=apiRef&utm_source=b007d4496b03350e50a42caa0c26d166"
+          }
+        ]
+      }
+    ]
+  }
+}

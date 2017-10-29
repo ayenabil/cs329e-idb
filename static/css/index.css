@@ -47,7 +47,7 @@
 	a:active { background-color:orange; /* when clicking before releasing the button */
 	}	
 	
-	.firsth1 { background-color: purple;
+	.firsth1 { background-color: orange;
 		 border:3px solid brown; /*border: width style color */
 		 padding-top: 20px;
 		 padding-bottom: 20px;
@@ -65,5 +65,5 @@
 		 margin: 50px 50px 50px 50px; /*margin: top left bottom right */
 		 }	
     body {
-	    background-color:purple;
+	    background-color: orange;
 	}
